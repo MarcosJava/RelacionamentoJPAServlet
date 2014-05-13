@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+td, th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 17px;
+}
+
+th {
+	min-height: 25px;
+	padding: 3px;
+}
+
+img {
+	border:0px;
+}
+fieldset{
+	width: 400px;
+}
+
+#menu {
+	min-height: 25px;
+	padding: 3px;
+	clear:both;
+}
